@@ -69,10 +69,9 @@ paragraph).
 
 ## How to run the Lorem Ipsum Generator 
 
- # Ensure that you have installed recent versions of [http://www.python.org
-   Python], [http://www.gtk.org GTK+] and [http://www.pygtk.org PyGTK+]
- # Download and extract one of the latest Lorem Ipsum Generator archives
- # Run the "main.py" file from the archive, using Python
+- Ensure that you have installed recent versions of [Python](http://www.python.org), [GTK+](http://www.gtk.org) and [PyGTK+](http://www.pygtk.org) 
+- Download and extract one of the latest Lorem Ipsum Generator archives
+- Run the "main.py" file from the archive, using Python
 
 Desktop or application menu shortcuts can be created to start the
 application using Python more easily.
