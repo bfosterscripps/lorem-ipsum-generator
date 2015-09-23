@@ -1,4 +1,4 @@
-= Lorem Ipsum Generator =
+# Lorem Ipsum Generator 
 
 Lorem Ipsum Generator provides a GTK+ graphical user interface, and a
 Python module, that generates random "lorem ipsum" text. The Lorem Ipsum
@@ -8,7 +8,7 @@ ipsum" text.
 A screenshot of the Lorem Ipsum Generator 0.1 running on Ubuntu 7.10, with
 Python 2.5.1 and PyGTK 2.12.0.
 
-== About "lorem ipsum" text ==
+## About "lorem ipsum" text 
 
 "Lorem ipsum" text is jumbled, latin text, conventionally used as dummy
 text to test the appearance of designs that incorporate large amounts of
@@ -29,7 +29,7 @@ Using generated, random "lorem ipsum" text reinforces the last mentioned
 benefit. As the generated text is random, it allows for an arbitrary amount
 of text to be produced without relying on repetition.
 
-== How the program generates random "lorem ipsum" text ==
+## How the program generates random "lorem ipsum" text 
 
 The Lorem Ipsum Generator produces its text based on the analysis of a
 sample file.
@@ -67,7 +67,7 @@ the sample text (where sentence length is defined as the number of words in
 a sentence, and paragraph length as the number of sentences in a
 paragraph).
 
-== How to run the Lorem Ipsum Generator ==
+## How to run the Lorem Ipsum Generator 
 
  # Ensure that you have installed recent versions of [http://www.python.org
    Python], [http://www.gtk.org GTK+] and [http://www.pygtk.org PyGTK+]
@@ -79,8 +79,7 @@ application using Python more easily.
 
 More usable versions are in the works.
 
-== Alternative tools ==
+## Alternative tools 
 
 If you are unlikely to require "lorem ipsum" text very frequently, you may
-find it more convenient to use the online service provided by lipsum.com
-<http://www.lipsum.com>.
+find it more convenient to use the online service provided by [lipsum.com](http://www.lipsum.com).
